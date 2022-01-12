@@ -20,4 +20,4 @@ This repository contains some of the images owned / created / copywrited by [sha
     - image [credits](https://cdn.shopify.com/s/files/1/0495/5966/6845/products/PKS_6429_a2a65a1b-6ddc-4590-8ad1-e472544e3d4c_1500x.jpg?v=1604529923)
 
 * [Goddess Laxmi - Tanjore/Chola art](./img/profile/fig4.png)
-    - image [credits] (https://www.cholaimpressions.com/Blog%20Images/Lotus%20lakshmi%20masterpiece%202418.jpg)
+    - image [credits](https://www.cholaimpressions.com/Blog%20Images/Lotus%20lakshmi%20masterpiece%202418.jpg)
