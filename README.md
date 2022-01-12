@@ -10,14 +10,14 @@ This repository contains some of the images owned / created / copywrited by [sha
 
 ## Carousal
 
-* [Ganesha - Madhubani art](./img/profile/ganesha.png)
+* [Ganesha - Madhubani art](./img/carousel/ganesha.png)
     - image [credits](https://cdn.exoticindia.com/images/products/thumbnails/t400x300/paintings-2019/paa330.jpg)
 
-* [Shiva - Madhubani art](./img/profile/fig2.png)
+* [Shiva - Madhubani art](./img/carousel/fig2.png)
     - image [credits](https://cdn.exoticindia.com/images/products/thumbnails/t400x300/paintings-2019/paa325.jpg)
 
-* [Saraswati - Nepali art](./img/profile/fig3.png)
+* [Saraswati - Nepali art](./img/carousel/fig3.png)
     - image [credits](https://cdn.shopify.com/s/files/1/0495/5966/6845/products/PKS_6429_a2a65a1b-6ddc-4590-8ad1-e472544e3d4c_1500x.jpg?v=1604529923)
 
-* [Goddess Laxmi - Tanjore/Chola art](./img/profile/fig4.png)
+* [Goddess Laxmi - Tanjore/Chola art](./img/carousel/fig4.png)
     - image [credits](https://www.cholaimpressions.com/Blog%20Images/Lotus%20lakshmi%20masterpiece%202418.jpg)
