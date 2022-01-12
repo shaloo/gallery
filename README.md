@@ -10,7 +10,7 @@ This repository contains some of the images owned / created / copywrited by [sha
 
 ## Carousal
 
-* [Ganesha - Madhubani art](./img/carousel/ganesha.jpg)
+* [Ganesha - Madhubani art](./img/carousel/fig1.jpg)
     - image [credits](https://cdn.exoticindia.com/images/products/thumbnails/t400x300/paintings-2019/paa330.jpg)
 
 * [Shiva - Madhubani art](./img/carousel/fig2.jpg)
