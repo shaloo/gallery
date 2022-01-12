@@ -1,6 +1,6 @@
 # gallery
 
-This repository contains some of the images owned / created / copywrited by [shaloo](https://github.com/shaloo).
+This repository contains some of the images owned / created / copywrited by [shaloo](https://github.com/shaloo). It also uses other images with credits simply for the purpose of demonstrating css features used by codepen project: https://codepen.io/techshalz/pen/XWePRPZ. 
 
 ## Profiles
 
